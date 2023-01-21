@@ -1,0 +1,25 @@
+{
+  "name": "epamlearning",
+  "version": "1.0.0",
+  "description": "my first petushini class",
+  "main": "kukareku",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisKharitanuk/EPAMLearning.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "DEnis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisKharitanuk/EPAMLearning/issues"
+  },
+  "homepage": "https://github.com/DenisKharitanuk/EPAMLearning#readme",
+  "devDependencies": {
+    "fs-extra": "^11.1.0"
+  }
+}
